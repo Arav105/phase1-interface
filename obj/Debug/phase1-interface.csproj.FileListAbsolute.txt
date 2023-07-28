@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\bin\Debug\phase1-interface.exe.config
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\bin\Debug\phase1-interface.exe
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\bin\Debug\phase1-interface.pdb
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\obj\Debug\phase1-interface.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\obj\Debug\phase1-interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\obj\Debug\phase1-interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\obj\Debug\phase1-interface.exe
+C:\Users\Admin\source\repos\phase1-interface\phase1-interface\obj\Debug\phase1-interface.pdb
